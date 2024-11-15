@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.example</groupId>
-    <artifactId>Gateway-service</artifactId>
+    <artifactId>Config-Serever</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Gateway-service</name>
-    <description>Gateway-service</description>
+    <name>Config-Serever</name>
+    <description>Config-Serever</description>
     <url/>
     <licenses>
         <license/>
@@ -37,7 +37,7 @@
         </dependency>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-gateway</artifactId>
+            <artifactId>spring-cloud-config-server</artifactId>
         </dependency>
         <dependency>
             <groupId>org.springframework.cloud</groupId>

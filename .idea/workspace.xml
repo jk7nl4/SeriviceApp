@@ -5,8 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56e96e98-72a7-49f3-b7a2-c620b5e0362e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Config-Serever/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-Serever/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-Serever/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-Serever/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-Serever/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-Serever/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-Serever/src/main/java/org/example/configserever/ConfigSereverApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-Serever/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-Serever/src/test/java/org/example/configserever/ConfigSereverApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gestion de projet-service/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gestion de projet-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gestion de projet-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gestion de projet-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gestion de projet-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gestion de projet-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gestion de projet-service/src/main/java/org/example/gestiondeprojetservice/GestionDeProjetServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gestion de projet-service/src/main/java/org/example/gestiondeprojetservice/entity/Projet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gestion de projet-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gestion de projet-service/src/test/java/org/example/gestiondeprojetservice/GestionDeProjetServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilisateur-service/src/main/java/org/example/utilisateurservice/DTO/EtudiantDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilisateur-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/utilisateur-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +78,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -88,10 +120,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;Spring Boot.DisoveryServiceApplication.executor&quot;: &quot;Run&quot;,
     &quot;Spring Boot.EurekaServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.GatewayServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.GestionDeProjetServiceApplication.executor&quot;: &quot;Run&quot;,
     &quot;Spring Boot.UtilisateurServiceApplication.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;2&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/servicesapp&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -115,6 +150,13 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.DisoveryServiceApplication">
+    <configuration name="ConfigSereverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Config-Serever" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.configserever.ConfigSereverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DisoveryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="disovery-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.disoveryservice.DisoveryServiceApplication" />
@@ -123,8 +165,15 @@
       </method>
     </configuration>
     <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="gateway-service" />
+      <module name="Gateway-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.gatewayservice.GatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestionDeProjetServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Gestiondeprojet-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.gestiondeprojetservice.GestionDeProjetServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -137,6 +186,8 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Spring Boot.ConfigSereverApplication" />
+      <item itemvalue="Spring Boot.GestionDeProjetServiceApplication" />
       <item itemvalue="Spring Boot.DisoveryServiceApplication" />
       <item itemvalue="Spring Boot.GatewayServiceApplication" />
       <item itemvalue="Spring Boot.UtilisateurServiceApplication" />
@@ -165,6 +216,9 @@
       <workItem from="1730986059218" duration="5719000" />
       <workItem from="1730995522200" duration="559000" />
       <workItem from="1731056664797" duration="429000" />
+      <workItem from="1731072866633" duration="7315000" />
+      <workItem from="1731668497904" duration="1194000" />
+      <workItem from="1731678145002" duration="2374000" />
     </task>
     <servers />
   </component>

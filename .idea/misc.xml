@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/Gateway-service/pom.xml" />
         <option value="$PROJECT_DIR$/Eureka-service/pom.xml" />
         <option value="$PROJECT_DIR$/disovery-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Gestion de projet-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Config-Serever/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
